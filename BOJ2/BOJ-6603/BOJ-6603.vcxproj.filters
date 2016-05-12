@@ -42,5 +42,17 @@
     <ClCompile Include="2493_탑.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="9457_기하학문양.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5631_방사능.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3019_테트리스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3019_테트리스(1등 코드).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
