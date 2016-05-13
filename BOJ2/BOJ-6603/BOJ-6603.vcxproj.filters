@@ -54,5 +54,11 @@
     <ClCompile Include="3019_테트리스(1등 코드).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2622_삼각형 만들기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10164_격자상의 경로.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
